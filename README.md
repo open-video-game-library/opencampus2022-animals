@@ -1,6 +1,6 @@
 # 動物ゲーム リンク集
 
-## 明治大学 オープンキャンパス2022用
+明治大学オープンキャンパス2022の展示用に作ったページです。
 
 https://open-video-game-library.github.io/opencampus2022-animals/
 
